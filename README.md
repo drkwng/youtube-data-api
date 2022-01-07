@@ -1,4 +1,4 @@
-# Get YouTube Video Meta Data
+# Get YouTube Video Meta Data by [DRKWNG](https://drkwng.rocks)
 Get such YT video data as ID, likes/dislikes count, comments count, views count, description, tags, 
 thumbnail, and other data.
 
